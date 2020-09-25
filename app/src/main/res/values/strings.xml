@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Github Repo Test</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_github_hint">Enter Github user name</string>
+    <string name="stars">Stars: %1$d</string>
+    <string name="open_issues">Open Issues: %1$d</string>
+    <string name="empty_user_repo_error">This user does not have a repo</string>
+    <string name="preference_key">com.canerozkaymak.githubrepo.sharedkey</string>
+    <string name="action_favorite">Action Favorite</string>
+    <string name="empty_username_error">Please enter a user name</string>
+    <string name="user_image">User Image</string>
+</resources>
