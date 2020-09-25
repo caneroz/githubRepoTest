@@ -6,6 +6,6 @@ MVVM architecture is used with Material Design elements and Kotlin language.
 
 Picasso is used to show user avatar.
 
-OkHttp and Retrofit is used for network operations. Rx is used for asyn calls.
+OkHttp and Retrofit is used for network operations. Rx is used for async calls.
 
 Latest Android version is used (SDK 29).
